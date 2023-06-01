@@ -19,4 +19,4 @@ Welcome to the Labyrinth Board Game App! This Java application brings the belove
 1. Clone the repository:
 
    ```shell
-  gh repo clone albanprvst1/Jeu_du_labyrinthe
+   gh repo clone albanprvst1/Jeu_du_labyrinthe
